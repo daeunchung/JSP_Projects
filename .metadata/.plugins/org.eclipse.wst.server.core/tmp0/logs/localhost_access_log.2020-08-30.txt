@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/Aug/2020:12:41:14 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:12:41:17 +0900] "GET /05_jsp_mysql_mvc_01_servlet/01_el/04_EL_loginPro.jsp HTTP/1.1" 200 181
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:12:41:46 +0900] "GET /05_jsp_mysql_mvc_01_servlet/01_el/03_EL_login.jsp HTTP/1.1" 200 695
+0:0:0:0:0:0:0:1 - - [30/Aug/2020:12:41:50 +0900] "POST /05_jsp_mysql_mvc_01_servlet/01_el/04_EL_loginPro.jsp HTTP/1.1" 200 187

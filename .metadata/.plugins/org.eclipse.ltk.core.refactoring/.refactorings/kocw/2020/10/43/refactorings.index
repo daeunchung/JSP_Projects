@@ -1,0 +1,26 @@
+1603112564984	Move 'ch06twitter' to 'WebContent'
+1603112574399	Move 'index.jsp' to 'ch05'
+1603112606884	Rename resource 'ch06twitter'
+1603112611562	Move 'Login.jsp' to 'ch06_shoppingcart'
+1603112614203	Move 'setProduct.jsp' to 'ch06_shoppingcart'
+1603158378088	Rename resource 'ch07'
+1603162402108	Rename package 'kocw'
+1603162444793	Move 'login.jsp' to 'ch07_Beanslogin'
+1603170140257	Delete element
+1603192091924	Delete element
+1603194623263	Delete element
+1603194653106	Rename resource 'NewFile.jsp'
+1603272060215	Delete element
+1603272070194	Delete element
+1603291828375	Delete element
+1603291912664	Rename package 'Servlet'
+1603293308394	Rename package 'ch05'
+1603298414884	Rename resource 'ch05'
+1603299097335	Move 'login.html' to 'ch05_shoppingcart'
+1603299130995	Rename package 'servlets'
+1603299143077	Rename package 'servlet_shoppingcart'
+1603350528454	Move 'ch06_includePages' to 'WebContent'
+1603351712661	Move 'login.html' to 'WebContent'
+1603351827848	Delete element
+1603545198354	Delete element
+1603559414409	Rename resource 'errorPage.jsp'

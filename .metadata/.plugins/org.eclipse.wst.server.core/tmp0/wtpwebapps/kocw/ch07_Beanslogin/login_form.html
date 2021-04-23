@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>로그인폼</title>
+</head>
+<body>
+	<div align="center">
+	<h3>로그인 해주세요.</h3>
+	<hr>
+	<form action="login.jsp" name="form1" method="post">
+	<table width="250" border="1" align="center" cellspacing="0" cellpadding="5">
+		<tr><td colspan="2" align="center">로그인</td></tr>
+		<tr>
+			<td>아이디</td>
+			<td><input type="text" name="userid" size="10"></td>
+		</tr>
+		<tr>
+			<td>비밀번호</td>
+			<td><input type="password" name="passid" size="10"></td>
+		</tr>		
+		<tr>
+			<td colspan="2" align="center">
+				<input type="submit" name="로그인" value="로그인">
+			</td>
+		</tr>
+		</table>
+	</form>
+	</div>
+</body>
+</html>
+
+<!-- login_form.html -> login.jsp -> LoginBean.java 
+	가운데 과정 login.jsp 에서 클래스 객체를 생성(useBean)해준다 
+	생성한 객체에 속성값 할당 (setProperty) 
+-->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\user\Downloads\JSP_Downloads\megait_jsp_all_file\07_jsp_bookstore_db"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\megait_jsp_all_file\06_jsp_rentcar_db"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\shoppingmall"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\04_jsp_file_04_rentcar_file"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\13_jsp_mvc2_jq_upload"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\12_jsp_mvc2_jq_crud"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\11_jsp_mvc2_jq_basic"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\10_jsp_mvc2_board"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\10_01_jsp_mvc2_bookstore"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\09_jsp_mvc2_crud"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\08_jsp_mvc2_basic"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\jsp_final_03_book_mvc2"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\jsp_final_02_book_mvc1"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\jsp_final_01_rentcar_db"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\jsp_final_00_rentcar_file"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\04_jsp_mysql_basic"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\07_jsp_mysql_mvc_03_board"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\06_jsp_mysql_mvc_02_join"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\03_jsp_file_03_board_file"/>
+			<item value="C:\Users\user\Downloads\JSP_Downloads\02_jsp_file_02_practice_file"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

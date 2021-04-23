@@ -1,0 +1,11 @@
+127.0.0.1 - - [24/Oct/2020:21:46:04 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:05 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/01_main.jsp HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:06 +0900] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:08 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/02_bWrite.jsp HTTP/1.1" 200 1559
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:23 +0900] "POST /04_jsp_mysql_basic/_03_boarddb/03_bWritePro.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:24 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/04_bList.jsp HTTP/1.1" 200 727
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:30 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/02_bWrite.jsp HTTP/1.1" 200 1559
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:36 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/04_bList.jsp HTTP/1.1" 200 727
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:37 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/02_bWrite.jsp HTTP/1.1" 200 1559
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:40 +0900] "POST /04_jsp_mysql_basic/_03_boarddb/03_bWritePro.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:46:40 +0900] "GET /04_jsp_mysql_basic/_03_boarddb/04_bList.jsp HTTP/1.1" 200 727

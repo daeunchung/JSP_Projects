@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:17:05 +0900] "GET /06_jsp_mysql_mvc_02_join/login.do HTTP/1.1" 200 591
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:17:08 +0900] "POST /06_jsp_mysql_mvc_02_join/loginPro.do HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:17:10 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 528
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:17:18 +0900] "GET /06_jsp_mysql_mvc_02_join/update.do HTTP/1.1" 200 2590
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:05 +0900] "GET /06_jsp_mysql_mvc_02_join/logout.do HTTP/1.1" 200 263
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:06 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 428
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:07 +0900] "GET /06_jsp_mysql_mvc_02_join/join.do HTTP/1.1" 200 1170
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:19 +0900] "POST /06_jsp_mysql_mvc_02_join/joinPro.do HTTP/1.1" 200 280
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:21 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 428
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:43 +0900] "GET /06_jsp_mysql_mvc_02_join/login.do HTTP/1.1" 200 591
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:48 +0900] "POST /06_jsp_mysql_mvc_02_join/loginPro.do HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:49 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 528
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:18:52 +0900] "GET /06_jsp_mysql_mvc_02_join/update.do HTTP/1.1" 200 2590
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:19:06 +0900] "POST /06_jsp_mysql_mvc_02_join/updatePro.do HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:19:08 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 528
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:21:38 +0900] "GET /06_jsp_mysql_mvc_02_join/apply.do HTTP/1.1" 200 2559
+0:0:0:0:0:0:0:1 - - [24/Sep/2020:00:42:27 +0900] "GET /insert.php HTTP/1.1" 404 1084

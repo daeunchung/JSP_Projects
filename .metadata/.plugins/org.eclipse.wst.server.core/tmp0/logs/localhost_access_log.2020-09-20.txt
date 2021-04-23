@@ -1,0 +1,14 @@
+127.0.0.1 - - [20/Sep/2020:23:08:52 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:08:54 +0900] "GET /06_jsp_mysql_mvc_02_join/02_join.jsp HTTP/1.1" 200 1170
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:10:15 +0900] "GET /06_jsp_mysql_mvc_02_join/02_join.jsp HTTP/1.1" 200 1170
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:10:15 +0900] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:13:42 +0900] "POST /06_jsp_mysql_mvc_02_join/joinPro.do HTTP/1.1" 200 280
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:13:45 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 428
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:13:45 +0900] "GET /06_jsp_mysql_mvc_02_join/img/applyonline.png HTTP/1.1" 200 6792
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:17:11 +0900] "GET /06_jsp_mysql_mvc_02_join/apply.do HTTP/1.1" 200 2692
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:17:12 +0900] "GET /06_jsp_mysql_mvc_02_join/index.do HTTP/1.1" 200 428
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:17:14 +0900] "GET /06_jsp_mysql_mvc_02_join/join.do HTTP/1.1" 200 1170
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:17:22 +0900] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [20/Sep/2020:23:20:51 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:20:53 +0900] "GET /04_jsp_mysql_basic/_01_joindb/00_main.jsp HTTP/1.1" 200 295
+0:0:0:0:0:0:0:1 - - [20/Sep/2020:23:21:19 +0900] "GET /04_jsp_mysql_basic/_01_joindb/01_insert.jsp HTTP/1.1" 200 529

@@ -1,0 +1,38 @@
+
+import java.io.*;
+public class ReadWrite {
+
+   public static void main(String[] args) {
+      // TODO Auto-generated method stub
+      FileReader fr =null;
+      BufferedReader br = null;
+      FileWriter fw = null;
+      PrintWriter pw = null;
+   
+      
+      try {
+         fr = new FileReader("input1.txt");
+         br = new BufferedReader(fr);
+         fw = new FileWriter("output1.txt");
+         pw = new PrintWriter(fw);
+         String s = br.readLine();
+      
+      while(s != null) {
+         pw.println(s);
+         s = br.readLine();
+      }
+         br.close();
+         fr.close();
+         pw.flush();
+         pw.close();
+         fw.close();
+      } catch (FileNotFoundException e) {
+         e.printStackTrace();
+      }catch (IOException ex) {
+         System.out.println(ex);
+         
+      }
+   System.exit(0);
+   }
+
+}
